@@ -1,0 +1,38 @@
+Indicaciones
+
+En el código base que se te proporciona debes realizar los siguientes cambios:
+ 
+1 - El título de la página debe ser "HTML, lenguaje de marcado".
+2 - Los párrafos deben econtrarse dentro de la etiqueta <p></p>
+3 - Las siglas de HTML, HTTP y URL deben aparecer como texto destacado en toda la página.
+4 - Debes añadir los siguientes encabezados:
+        Un encabezado de nivel 1 con el texto "Los tres pilares de la Web" al inicio de la página.
+        Un encabezado de nivel 2 con el texto "HTML" antes del texto "HTML, siglas de HyperText Markup Language"
+        Un encabezado de nivel 2 con el texto "HTTP" antes del texto "Hypertext Transfer Protocol".
+        Un encabezado de nivel 2 con el texto "URL" antes del texto "Un localizador de recursos uniforme".
+5 - Los textos HTML, HTTP y URL que aparecen debajo del primero párrafo deben ser una lista desordenada.
+6 - Los enlaces que aparecen en la página deben tener los siguientes destinos:
+        Tim Berners-Lee → http://es.wikipedia.org/wiki/Tim_Berners-Lee
+        Web → http://es.wikipedia.org/wiki/World_Wide_Web
+        HTML → enlace intradocumental al epígrafe HTML
+        HTTP → enlace intradocumental al epígrafe HTTP
+        URL → enlace intradocumental al epígrafe URL
+        Fuente: HTML → http://es.wikipedia.org/wiki/HTML
+        Fuente: HTTP → http://es.wikipedia.org/wiki/Hypertext_Transfer_Protocol
+        Fuente: URL → http://es.wikipedia.org/wiki/Localizador_de_recursos_uniforme
+7 - Agregar una línea horizontal debajo de "Fuente: URL"
+8 - Agregar un formulario con los siguientes campos de información:
+    	Nombre, con un control de tipo texto.
+    	Apellidos, con un control de tipo texto.
+    	Color de piel, con tres opciones excluyentes Blanca, Negra, Mestiza.
+    	Correo electrónico, con un control de tipo texto.
+    	Población, una lista desplegable con las opciones Alicante, Madrid, Sevilla y Valencia.
+    	Descripción, un área de texto multilínea.
+    	Una casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas".
+    	Una casilla de verificación con el texto "Declaro haber leido y aceptar las condiciones generales del programa".
+	La casilla de verificación con el texto "Deseo recibir información sobre novedades y ofertas" debe estar activada por defecto.
+	Un botón de envío.
+9 - Agregar una línea horizontal debajo del formulario anterior.
+10 - Con los datos proporcionados construya una tabla, donde las columnas son los años y las filas los datos de los países, el borde de la tabla debe ser visible.
+
+
